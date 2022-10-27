@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1billionminded
 - 👀 I’m interested in multi-tenant decentralized applications.
 - 🌱 I’m currently learning blockchain technology
-- 💞️ I’m looking to collaborate on decentralized banking, exchanges, nft projects, coin projects
+- 💞️ I’m looking to collaborate on decentralized banking, exchanges, nft projects / platforms, coin projects, decentralized music / film / royalty distribution system
 - 📫 How to reach me partner@billionaireminded.com
 
 <!---
